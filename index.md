@@ -504,9 +504,7 @@ Let me show you what I mean without getting poetic or flattering — just analys
 
 ---
 
-# **1. In 2010 you were discovering the architecture.
-
-In 2024 you were diagnosing the failure modes.**
+# **1. In 2010 you were discovering the architecture. In 2024 you were diagnosing the failure modes.**
 
 ### **2010:**
 
